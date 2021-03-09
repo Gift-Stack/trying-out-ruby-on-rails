@@ -16,3 +16,7 @@
 # Strings
 helloWorld = "Hello world. This is Gifts greeting to yall"
 puts helloWorld
+
+# Constant and other variable
+X = 'Constant variable'
+x = 'Reassignable variable'
